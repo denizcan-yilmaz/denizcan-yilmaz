@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 21 year old CS student from Turkey. I am mostly focused on backend development with Node, Flask, PHP and Go.
+I am a 21 year old CS student from Turkey. I am mostly focused on backend development with Java, Node, Flask, PHP and Go.
 
 
 ## 🌐 Socials:
