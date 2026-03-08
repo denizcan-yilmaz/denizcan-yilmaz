@@ -2,7 +2,7 @@
 
 Software engineer with a passion for **Cloud Computing** and **Machine Learning**, currently pursuing an MSc in Computer Engineering at METU.
 
-I enjoy building things that are fast, scalable, and intelligent — from full-stack web apps to deep learning pipelines.
+I enjoy building things that are fast, scalable, and intelligent - from full-stack web apps to deep learning pipelines.
 
 ---
 
